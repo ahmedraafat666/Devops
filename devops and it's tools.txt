@@ -1,0 +1,22 @@
+task 1 : searching in dev ops vs Agile in progress
+
+devops : is a software development (development operation) method which focuses on communication, integration, and collaboration among IT professionals to enables rapid deployment of products
+
+while Agile : Agile refers to an iterative approach which focuses on collaboration, customer feedback, and small, rapid releases.
+
+
+
+
+
+
+task 2 : searching in devops tools
+
+devops tools and skills : 
+
+1. source control (github, gitlab, Azure Repos)
+2. continous integration (Azure pipeline, jenkins)
+3. Infrastructure Automation (ARM, terraform, powershell)
+4. Deployment Automation (Azure pipeline, jenkins)
+5. Container Concepts (Docker, LXD)
+6. Cloud (Azure, AWS, digitalocean)
+7. soft skills and collaboration, understanding business needs, multi tasking, testing skills, network and security awareness
